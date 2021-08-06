@@ -1,0 +1,169 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.2  0.3 165884 12580 ?        Ss   22:18   0:06 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    22:18   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   22:18   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   22:18   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   22:18   0:00 [kworker/0:0H-events_highpri]
+root           8  0.0  0.0      0     0 ?        I    22:18   0:02 [kworker/u8:0-ext4-rsv-conversion]
+root           9  0.0  0.0      0     0 ?        I<   22:18   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    22:18   0:00 [rcu_tasks_rude_]
+root          11  0.0  0.0      0     0 ?        S    22:18   0:00 [rcu_tasks_trace]
+root          12  0.0  0.0      0     0 ?        S    22:18   0:00 [ksoftirqd/0]
+root          13  0.0  0.0      0     0 ?        I    22:18   0:01 [rcu_sched]
+root          14  0.0  0.0      0     0 ?        S    22:18   0:00 [migration/0]
+root          15  0.0  0.0      0     0 ?        S    22:18   0:00 [idle_inject/0]
+root          16  0.0  0.0      0     0 ?        S    22:18   0:00 [cpuhp/0]
+root          17  0.0  0.0      0     0 ?        S    22:18   0:00 [cpuhp/1]
+root          18  0.0  0.0      0     0 ?        S    22:18   0:00 [idle_inject/1]
+root          19  0.0  0.0      0     0 ?        S    22:18   0:00 [migration/1]
+root          20  0.0  0.0      0     0 ?        S    22:18   0:00 [ksoftirqd/1]
+root          22  0.0  0.0      0     0 ?        I<   22:18   0:00 [kworker/1:0H-events_highpri]
+root          23  0.0  0.0      0     0 ?        S    22:18   0:00 [kdevtmpfs]
+root          24  0.0  0.0      0     0 ?        I<   22:18   0:00 [netns]
+root          25  0.0  0.0      0     0 ?        I<   22:18   0:00 [inet_frag_wq]
+root          26  0.0  0.0      0     0 ?        S    22:18   0:00 [kauditd]
+root          27  0.0  0.0      0     0 ?        S    22:18   0:00 [khungtaskd]
+root          28  0.0  0.0      0     0 ?        S    22:18   0:00 [oom_reaper]
+root          29  0.0  0.0      0     0 ?        I<   22:18   0:00 [writeback]
+root          30  0.0  0.0      0     0 ?        S    22:18   0:00 [kcompactd0]
+root          31  0.0  0.0      0     0 ?        SN   22:18   0:00 [ksmd]
+root          32  0.0  0.0      0     0 ?        SN   22:18   0:00 [khugepaged]
+root          79  0.0  0.0      0     0 ?        I<   22:18   0:00 [kintegrityd]
+root          80  0.0  0.0      0     0 ?        I<   22:18   0:00 [kblockd]
+root          81  0.0  0.0      0     0 ?        I<   22:18   0:00 [blkcg_punt_bio]
+root          82  0.0  0.0      0     0 ?        I<   22:18   0:00 [tpm_dev_wq]
+root          83  0.0  0.0      0     0 ?        I<   22:18   0:00 [ata_sff]
+root          84  0.0  0.0      0     0 ?        I<   22:18   0:00 [md]
+root          85  0.0  0.0      0     0 ?        I<   22:18   0:00 [edac-poller]
+root          86  0.0  0.0      0     0 ?        I<   22:18   0:00 [devfreq_wq]
+root          87  0.0  0.0      0     0 ?        S    22:18   0:00 [watchdogd]
+root          89  0.0  0.0      0     0 ?        I<   22:18   0:00 [kworker/0:1H-kblockd]
+root          91  0.0  0.0      0     0 ?        S    22:18   0:00 [kswapd0]
+root          92  0.0  0.0      0     0 ?        S    22:18   0:00 [ecryptfs-kthrea]
+root          94  0.0  0.0      0     0 ?        I<   22:18   0:00 [kthrotld]
+root          96  0.0  0.0      0     0 ?        I<   22:18   0:00 [acpi_thermal_pm]
+root          99  0.0  0.0      0     0 ?        I<   22:18   0:00 [vfio-irqfd-clea]
+root         102  0.0  0.0      0     0 ?        I<   22:18   0:00 [ipv6_addrconf]
+root         111  0.0  0.0      0     0 ?        I<   22:18   0:00 [kstrp]
+root         114  0.0  0.0      0     0 ?        I<   22:18   0:00 [zswap-shrink]
+root         115  0.0  0.0      0     0 ?        I<   22:18   0:00 [kworker/u9:0-hci0]
+root         122  0.0  0.0      0     0 ?        I<   22:18   0:00 [charger_manager]
+root         144  0.0  0.0      0     0 ?        I<   22:18   0:00 [kworker/1:1H-kblockd]
+root         167  0.0  0.0      0     0 ?        S    22:18   0:00 [scsi_eh_0]
+root         168  0.0  0.0      0     0 ?        I<   22:18   0:00 [scsi_tmf_0]
+root         171  0.0  0.0      0     0 ?        I<   22:18   0:00 [sdhci]
+root         173  0.0  0.0      0     0 ?        S    22:18   0:00 [irq/39-mmc0]
+root         174  0.1  0.0      0     0 ?        S    22:18   0:03 [irq/127-TPD1019]
+root         176  0.0  0.0      0     0 ?        I<   22:18   0:00 [cryptd]
+root         184  0.0  0.0      0     0 ?        S    22:18   0:00 [card0-crtc0]
+root         185  0.0  0.0      0     0 ?        S    22:18   0:00 [card0-crtc1]
+root         187  0.0  0.0      0     0 ?        S    22:18   0:00 [card0-crtc2]
+root         201  0.0  0.0      0     0 ?        S    22:18   0:00 [spi1]
+root         203  0.0  0.0      0     0 ?        S    22:18   0:00 [spi2]
+root         204  0.0  0.0      0     0 ?        S    22:18   0:00 [spi3]
+root         215  0.0  0.0      0     0 ?        I<   22:18   0:00 [uas]
+root         216  0.0  0.0      0     0 ?        S    22:18   0:00 [scsi_eh_1]
+root         217  0.0  0.0      0     0 ?        I<   22:18   0:00 [scsi_tmf_1]
+root         265  0.0  0.0      0     0 ?        S    22:18   0:00 [jbd2/sdb2-8]
+root         266  0.0  0.0      0     0 ?        I<   22:18   0:00 [ext4-rsv-conver]
+root         313  0.0  0.4  48492 18448 ?        S<s  22:18   0:00 /lib/systemd/systemd-journald
+root         347  0.0  0.1  24448  7332 ?        Ss   22:18   0:01 /lib/systemd/systemd-udevd
+root         389  0.0  0.0      0     0 ?        S    22:18   0:00 [irq/129-mei_me]
+root         394  0.1  0.0      0     0 ?        I<   22:18   0:04 [kworker/u9:2-i915_flip]
+root         409  0.0  0.0      0     0 ?        I<   22:18   0:00 [cfg80211]
+root         421  0.0  0.0      0     0 ?        I<   22:18   0:00 [kmemstick]
+root         445  0.1  0.0      0     0 ?        S    22:18   0:05 [irq/130-rtw88_p]
+systemd+     604  0.0  0.3  24096 12080 ?        Ss   22:18   0:00 /lib/systemd/systemd-resolved
+systemd+     605  0.0  0.1  88444  6232 ?        Ssl  22:18   0:00 /lib/systemd/systemd-timesyncd
+root         615  0.0  0.1   8316  4908 ?        Ss   22:18   0:00 /usr/sbin/haveged --Foreground --verbose=1
+root         623  0.0  0.2 243076  8280 ?        Ssl  22:18   0:00 /usr/lib/accountsservice/accounts-daemon
+root         624  0.0  0.0   2556   952 ?        Ss   22:18   0:00 /usr/sbin/acpid
+avahi        628  0.0  0.0   7424  3644 ?        Ss   22:18   0:00 avahi-daemon: running [estudiante-sf20gm7.local]
+root         629  0.0  0.1  10728  5444 ?        Ss   22:18   0:00 /usr/lib/bluetooth/bluetoothd
+root         631  0.0  0.0  12016  2984 ?        Ss   22:18   0:00 /usr/sbin/cron -f -P
+message+     632  0.0  0.1   9780  5768 ?        Ss   22:18   0:01 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         635  0.0  0.1   9508  4056 ?        Ss   22:18   0:00 /usr/sbin/dundee -n
+root         639  0.0  0.1  82936  3860 ?        Ssl  22:18   0:00 /usr/sbin/irqbalance --foreground
+root         640  0.0  0.5  36452 19328 ?        Ss   22:18   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         641  0.0  0.1  11976  6508 ?        Ss   22:18   0:00 /usr/sbin/ofonod -n
+root         642  0.0  0.2 237164  9488 ?        Ssl  22:18   0:00 /usr/libexec/polkitd --no-debug
+syslog       644  0.0  0.1 221208  5844 ?        Ssl  22:18   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         660  0.0  0.2 374604  7900 ?        Ss   22:18   0:00 /lib/systemd/systemd-logind
+root         661  0.0  0.2 130452  9724 ?        Ssl  22:18   0:01 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         668  0.0  0.3 394388 14320 ?        Ssl  22:18   0:00 /usr/libexec/udisks2/udisksd
+root         669  0.0  0.2  15116  9344 ?        Ss   22:18   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        729  0.0  0.0   7244   348 ?        S    22:18   0:00 avahi-daemon: chroot helper
+root         780  0.0  0.3  74548 13684 ?        Ss   22:18   0:00 /usr/sbin/cupsd -l
+root         784  0.0  0.5 114256 21624 ?        Ssl  22:18   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         792  0.0  0.4 141872 16064 ?        Ssl  22:18   0:00 /usr/bin/sddm
+root         797  0.0  0.2 242716 11224 ?        Ssl  22:18   0:00 /usr/sbin/ModemManager
+root         826  0.0  0.0      0     0 ?        S<   22:18   0:00 [krfcommd]
+lp           945  0.0  0.1  16544  6736 ?        S    22:18   0:00 /usr/lib/cups/notifier/dbus dbus://
+root         946  0.0  0.3 179072 12900 ?        Ssl  22:18   0:00 /usr/sbin/cups-browsed
+root         993  1.1  2.1 870760 83752 tty1     Rsl+ 22:19   0:32 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{f0a6cb97-de41-476d-b891-63bcf0ff6f2a} -background none -noreset -displayfd 17 -seat seat0 vt1
+whoopsie    1060  0.0  0.3 326048 14592 ?        Ssl  22:19   0:00 /usr/bin/whoopsie -f
+kernoops    1068  0.0  0.0  13520   468 ?        Ss   22:19   0:00 /usr/sbin/kerneloops --test
+kernoops    1070  0.0  0.0  13520   468 ?        Ss   22:19   0:00 /usr/sbin/kerneloops
+root        1089  0.0  0.3  65128 15284 ?        S    22:19   0:00 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-authfe5295c2-53be-41b3-8b77-f5c972e2445c --id 1 --start env LXQT_DEFAULT_OPENBOX_CONFIG="/etc/xdg/xdg-Lubuntu/openbox/lxqt-rc.xml" /usr/bin/startlxqt --user estudiante --autologin
+estudia+    1094  0.0  0.2  15720  9028 ?        Ss   22:19   0:00 /lib/systemd/systemd --user
+estudia+    1095  0.0  0.0 167536  3492 ?        S    22:19   0:00 (sd-pam)
+estudia+    1103  0.0  0.1  91072  6160 ?        S<sl 22:19   0:00 /usr/bin/pipewire
+estudia+    1104  0.0  0.1  82964  5800 ?        S<sl 22:19   0:00 /usr/bin/pipewire-media-session
+estudia+    1105  0.0  0.5 362904 19644 ?        S<sl 22:19   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+estudia+    1106  0.0  1.0 266076 39548 ?        Sl   22:19   0:00 lxqt-session
+rtkit       1132  0.0  0.0 153840  3080 ?        SNsl 22:19   0:00 /usr/libexec/rtkit-daemon
+estudia+    1138  0.0  0.1   8848  5376 ?        Ss   22:19   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+estudia+    1189  0.0  0.0   5964   456 ?        Ss   22:19   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env LXQT_DEFAULT_OPENBOX_CONFIG=/etc/xdg/xdg-Lubuntu/openbox/lxqt-rc.xml /usr/bin/startlxqt
+estudia+    1255  0.0  0.7 231476 27728 ?        Sl   22:19   0:00 /usr/bin/openbox --config-file /home/estudiante/.config/openbox/lxqt-rc.xml
+estudia+    1264  0.0  0.1 306756  6832 ?        Sl   22:19   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+estudia+    1271  0.1  2.6 1341412 100156 ?      Sl   22:19   0:03 /usr/bin/pcmanfm-qt --desktop --profile=lxqt
+estudia+    1272  0.0  0.9 339568 37600 ?        Sl   22:19   0:00 /usr/bin/lxqt-globalkeysd
+estudia+    1277  0.0  2.0 688260 76908 ?        Sl   22:19   0:00 /usr/bin/lxqt-notificationd
+estudia+    1278  0.0  0.1   8244  4760 ?        S    22:19   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+estudia+    1279  0.1  2.5 933196 99492 ?        Sl   22:19   0:03 /usr/bin/lxqt-panel
+estudia+    1280  0.0  0.9 413424 38380 ?        Sl   22:19   0:00 /usr/bin/lxqt-policykit-agent
+estudia+    1281  0.0  1.2 284088 48504 ?        Sl   22:19   0:00 /usr/bin/lxqt-runner
+estudia+    1283  0.0  0.1  14740  5480 ?        S    22:19   0:00 /usr/bin/xscreensaver -no-splash
+estudia+    1311  0.0  0.2 243632  8268 ?        Ssl  22:19   0:00 /usr/libexec/gvfsd
+estudia+    1320  0.0  0.1 379672  5804 ?        Sl   22:19   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+estudia+    1321  0.0  0.2 317724  8516 ?        Sl   22:19   0:00 /usr/libexec/gvfsd-trash --spawner :1.17 /org/gtk/gvfs/exec_spaw/0
+estudia+    1339  0.0  0.3 626520 13476 ?        Ssl  22:19   0:00 /usr/libexec/xdg-desktop-portal
+estudia+    1343  0.0  0.1 535128  7032 ?        Ssl  22:19   0:00 /usr/libexec/xdg-document-portal
+estudia+    1346  0.0  0.1 239460  5300 ?        Ssl  22:19   0:00 /usr/libexec/xdg-permission-store
+root        1351  0.0  0.0   2616  2044 ?        Ss   22:19   0:00 fusermount -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+estudia+    1355  0.0  0.2 392676 10496 ?        Ssl  22:19   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+estudia+    1360  0.0  0.2 316836  7724 ?        Ssl  22:19   0:00 /usr/libexec/gvfs-afc-volume-monitor
+estudia+    1366  0.0  1.0 268788 38788 ?        Sl   22:19   0:00 /usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde
+estudia+    1368  0.0  0.1 239732  6916 ?        Ssl  22:19   0:00 /usr/libexec/gvfs-goa-volume-monitor
+estudia+    1374  0.0  0.1 239548  6760 ?        Ssl  22:19   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+estudia+    1378  0.0  0.1 240604  7328 ?        Ssl  22:19   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+estudia+    1397  0.0  0.2 244052  9460 ?        Sl   22:19   0:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+estudia+    1403  0.0  0.2 163176  8220 ?        Sl   22:19   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+root        1413  0.0  0.2 252400  8924 ?        Ssl  22:19   0:00 /usr/libexec/upowerd
+root        1464  0.0  0.0      0     0 ?        S    22:19   0:00 [jbd2/sda5-8]
+root        1465  0.0  0.0      0     0 ?        I<   22:19   0:00 [ext4-rsv-conver]
+estudia+    1499  0.0  1.3 510152 50264 ?        Sl   22:19   0:00 /usr/bin/lxqt-powermanagement
+estudia+    1501  0.0  1.0 274440 39208 ?        Sl   22:19   0:00 /usr/bin/qlipper
+estudia+    1503  0.0  1.0 275848 40068 ?        Sl   22:19   0:00 /usr/bin/nm-tray
+estudia+    1515  0.1  2.1 692084 84432 ?        Rl   22:20   0:04 /usr/bin/qterminal
+estudia+    1518  0.0  0.1  13952  6020 pts/0    Ss   22:20   0:00 /bin/bash
+root        1954  0.0  0.0      0     0 ?        I    22:35   0:01 [kworker/u8:2-phy0]
+root        2054  0.0  0.0      0     0 ?        I    22:49   0:00 [kworker/0:2-events]
+estudia+    2095  0.0  0.1 166144  6916 ?        Ssl  22:49   0:00 /usr/libexec/gvfsd-metadata
+root        2139  0.0  0.0      0     0 ?        I    22:50   0:00 [kworker/1:1-mm_percpu_wq]
+root        2371  0.0  0.5 301080 21680 ?        Ssl  22:50   0:00 /usr/libexec/packagekitd
+root        3947  0.0  0.5 266032 19640 ?        Ssl  22:56   0:00 /usr/sbin/NetworkManager --no-daemon
+root        4208  0.1  0.0      0     0 ?        I    22:56   0:00 [kworker/u8:1-i915]
+root        4437  0.0  0.0 1027288 2496 ?        Sl   22:56   0:00 /opt/TheftDeterrentclient/guardian/Theft_Deterrent_guardian
+root        4596  0.3  0.0   1144   576 ?        S    22:56   0:02 /usr/sbin/tpmdaemon -f /var/log/tpmd.log -l DEBUG
+root        4662  0.0  0.2 1093244 10192 ?       Sl   22:56   0:00 /opt/TheftDeterrentclient/client/Theft_Deterrent_agent
+root        4672  0.0  0.0      0     0 ?        I    22:56   0:00 [kworker/0:0-rcu_gp]
+root        4740  0.0  0.1  11204  4436 pts/0    S    22:56   0:00 su estudiante -c /opt/TheftDeterrentclient/client/TheftDeterrentclient --sleep
+estudia+    4742  0.0  0.0   4768   800 ?        Ss   22:56   0:00 /opt/TheftDeterrentclient/client/TheftDeterrentclient --sleep
+estudia+    4743  4.2  1.9 730380 75688 ?        Sl   22:56   0:24 /opt/TheftDeterrentclient/client/TheftDeterrentclient --sleep
+root        5848  0.0  0.0      0     0 ?        I    23:00   0:00 [kworker/1:0-events]
+estudia+    6348  0.4  2.1 762016 84044 ?        Sl   23:02   0:01 featherpad file:///home/estudiante/jm-provition-monitor/monitor.sh
+root        6367  0.1  0.0      0     0 ?        I    23:02   0:00 [kworker/u8:3-i915]
+root        6418  0.0  0.0      0     0 ?        I    23:05   0:00 [kworker/0:1-events]
+root        6447  0.0  0.0      0     0 ?        I    23:05   0:00 [kworker/1:2-mm_percpu_wq]
+estudia+    6451  0.0  0.0  14972  3728 pts/0    R+   23:06   0:00 ps aux
